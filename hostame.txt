@@ -1,3 +1,2 @@
 jenkins
 Added some random text
-More text.
